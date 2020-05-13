@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="false" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ishop2@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ishop2@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ishop2" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tabs</find>
+      <find>.dropdown div</find>
+      <find>w_sidebar</find>
+      <find>total</find>
+      <find>getAttrs</find>
+      <find>content-wrapper</find>
+      <find>small-box</find>
+      <find>Alexander Pierce</find>
+      <find>user</find>
+      <find>session</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/322" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/ishop/core" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bHjvqFESqQInKFzJuAQ2ao5sSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="database.data.views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebServer\domains\ishop2.loc\public\images" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\uploaded_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebServer\domains\ishop2.loc\public\js" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\adminlte" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\images" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\validator" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="" />
+      <created>1503137627692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503137627692</updated>
+      <workItem from="1503137628921" duration="1046000" />
+      <workItem from="1503209288677" duration="2359000" />
+      <workItem from="1503219435892" duration="1673000" />
+      <workItem from="1503233344227" duration="1391000" />
+      <workItem from="1503301228775" duration="3289000" />
+      <workItem from="1503307784877" duration="3660000" />
+      <workItem from="1503311565516" duration="37000" />
+      <workItem from="1503317705925" duration="3901000" />
+      <workItem from="1503380923201" duration="2489000" />
+      <workItem from="1503392960698" duration="4039000" />
+      <workItem from="1503408503528" duration="4083000" />
+      <workItem from="1503468309508" duration="4590000" />
+      <workItem from="1503480431591" duration="3360000" />
+      <workItem from="1503494116706" duration="3093000" />
+      <workItem from="1503497362976" duration="20000" />
+      <workItem from="1503563409697" duration="3015000" />
+      <workItem from="1503739037037" duration="3294000" />
+      <workItem from="1503751255071" duration="5922000" />
+      <workItem from="1503834260970" duration="2635000" />
+      <workItem from="1504260015105" duration="5631000" />
+      <workItem from="1504281430565" duration="4385000" />
+      <workItem from="1504340087299" duration="298000" />
+      <workItem from="1504340444634" duration="6661000" />
+      <workItem from="1504356150925" duration="3515000" />
+      <workItem from="1504421755858" duration="106000" />
+      <workItem from="1504433284844" duration="4042000" />
+      <workItem from="1504542225638" duration="3794000" />
+      <workItem from="1504628477813" duration="2412000" />
+      <workItem from="1504801132664" duration="1382000" />
+      <workItem from="1504802532235" duration="965000" />
+      <workItem from="1504804628472" duration="7000" />
+      <workItem from="1504934634936" duration="5636000" />
+      <workItem from="1504945989244" duration="4355000" />
+      <workItem from="1504955075264" duration="2478000" />
+      <workItem from="1504960520103" duration="4717000" />
+      <workItem from="1505023082664" duration="3672000" />
+      <workItem from="1505032768542" duration="1694000" />
+      <workItem from="1505034618382" duration="21000" />
+      <workItem from="1505046789735" duration="2814000" />
+      <workItem from="1505145072646" duration="5664000" />
+      <workItem from="1505232635900" duration="3323000" />
+      <workItem from="1505316637385" duration="3768000" />
+      <workItem from="1505549057419" duration="5655000" />
+      <workItem from="1505561547203" duration="5295000" />
+      <workItem from="1505574911651" duration="2018000" />
+      <workItem from="1588296183573" duration="1691000" />
+      <workItem from="1588353853327" duration="151000" />
+      <workItem from="1588365786921" duration="608000" />
+      <workItem from="1588442226419" duration="1207000" />
+      <workItem from="1588807002646" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1588442231214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588442231214" />
+  </component>
+</project>
